@@ -1,4 +1,4 @@
-# leetcode_practice
+# Practicing Coding
 My solutions to selected Leetcode problems
 
 These are done to reinforce the concepts of popular data structures and algorithms used in the software engineering industry, and to understand common problem solving patterns.
