@@ -5,4 +5,7 @@ These are done to reinforce the concepts of popular data structures and algorith
 
 
 Problems done:
+
 001 - Contains Duplicate (https://leetcode.com/problems/contains-duplicate/description/)
+
+002 - Binary Search (https://leetcode.com/problems/binary-search/description/)
