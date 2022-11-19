@@ -11,3 +11,5 @@ Problems done:
 002 - Binary Search (https://leetcode.com/problems/binary-search/description/)
 
 003 - First Bad Version (https://leetcode.com/problems/first-bad-version/description/)
+
+004 - Lowest Common Ancestor of a Binary Tree (https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
