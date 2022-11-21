@@ -13,3 +13,6 @@ Problems done:
 003 - First Bad Version (https://leetcode.com/problems/first-bad-version/description/)
 
 004 - Lowest Common Ancestor of a Binary Tree (https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+
+005 - Merge Two Sorted Lists (https://leetcode.com/problems/merge-two-sorted-lists/)
+
