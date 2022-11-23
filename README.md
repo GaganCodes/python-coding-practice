@@ -17,3 +17,5 @@ Problems done:
 005 - Merge Two Sorted Lists (https://leetcode.com/problems/merge-two-sorted-lists/)
 
 006 - Max Depth of Binary Tree (https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+
+007 - Valid Anagram (https://leetcode.com/problems/valid-anagram/)
