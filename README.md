@@ -19,3 +19,6 @@ Problems done:
 006 - Max Depth of Binary Tree (https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 
 007 - Valid Anagram (https://leetcode.com/problems/valid-anagram/)
+
+008 - Two Sum (https://leetcode.com/problems/two-sum/)
+
