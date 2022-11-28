@@ -23,3 +23,5 @@ Problems done:
 008 - Two Sum (https://leetcode.com/problems/two-sum/)
 
 009 - Invert Binary Tree (https://leetcode.com/problems/invert-binary-tree/)
+
+010 - Reverse Linked List (https://leetcode.com/problems/reverse-linked-list/)
