@@ -27,3 +27,5 @@ Problems done:
 010 - Reverse Linked List (https://leetcode.com/problems/reverse-linked-list/)
 
 011 - Valid Palindrome (https://leetcode.com/problems/valid-palindrome/)
+
+012 - Unique Number of Occurrences (https://leetcode.com/problems/unique-number-of-occurrences/)
