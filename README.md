@@ -30,4 +30,6 @@ Problems done:
 
 012 - Unique Number of Occurrences (https://leetcode.com/problems/unique-number-of-occurrences/)
 
-013 - Linked List Cycle (https://leetcode.com/problems/linked-list-cycle/)
+013 - Pow(x,n) (https://leetcode.com/problems/powx-n/)
+
+014 - Linked List Cycle (https://leetcode.com/problems/linked-list-cycle/)
